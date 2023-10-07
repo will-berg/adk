@@ -1,0 +1,5 @@
+*.class
+out/testfall
+/__pycache__
+lab2/large
+ordlista.utf8
